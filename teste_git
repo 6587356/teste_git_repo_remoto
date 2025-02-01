@@ -3,5 +3,9 @@ teste git para desfazer uma alteracao
 adicionando 3a linha de teste
 2a versao do documento
 linha de teste de versao
+<<<<<<< HEAD
 5a linha de texto aleatorio 
 
+=======
+adicionando mais texto aleatorio para testar um merge
+>>>>>>> experimentos_2
